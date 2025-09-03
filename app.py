@@ -65,6 +65,4 @@ else:
                 except requests.exceptions.RequestException as e:
                     st.error(f"APIへのリクエスト中にエラーが発生しました: {e}")
 
-# --- フッター ---
-st.markdown("---")
-st.markdown("Developed with ❤️ by Gemini")
+
