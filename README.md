@@ -1,5 +1,6 @@
 
 # 推薦システムアプリ
+<img width="769" height="629" alt="スクリーンショット 2025-09-03 11 50 48" src="https://github.com/user-attachments/assets/62ba3bcf-9d6b-43ad-a98e-949bbe741bc8" />
 
 ユーザー×アイテムの評価データに基づき、協調フィルタリング（SVD）を用いておすすめのアイテムを提示するシンプルなWebアプリケーションです。
 
